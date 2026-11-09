@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://odinmoja.github.io/sitemap.xml
